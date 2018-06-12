@@ -2,6 +2,10 @@
 *.pyo
 env/
 tags
+<<<<<<< HEAD
 *.idea
 db
 *db
+=======
+*.idea
+>>>>>>> feature/artykul-1
